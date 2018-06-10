@@ -8,11 +8,15 @@
 # Project tree
 
  * [google-video.pdf](./google-video.pdf)
- * [README.md](./README.md)
- * [dataset](./dataset)
-   * [raw.mp4](./dataset/raw.mp4)
-   * [frames](./dataset/frames)
  * [features.py](./features.py)
  * [feature_dist.png](./feature_dist.png)
  * [k_means.py](./k_means.py)
+ * [tf_idf-table.pkl](./tf_idf-table.pkl)
  * [tf_idf.py](./tf_idf.py)
+ * [clusters.pkl](./clusters.pkl)
+ * [README.md](./README.md)
+ * [dataset](./dataset)
+     * raw.mp4
+     * frames
+     * `file_data.pkl`
+     * [README.md](./dataset/README.md)
